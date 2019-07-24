@@ -14,12 +14,13 @@ namespace ImageBox
     public partial class HImgBox : HalconDotNet.HWindowControl
     {
         public HImage Image { get; set; }
-        public List<HRegion> Regions { get; set; } = new List<HRegion>();
+        public List<HRegion> Regions { get; set; }
         float imgscale = 1;
         Point oldP = new Point();
         public HImgBox()
         {
             InitializeComponent();
+            Regions = new List<HRegion>();
         }
         protected override void OnPaint(PaintEventArgs pe)
         {

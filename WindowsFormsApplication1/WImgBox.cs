@@ -80,12 +80,12 @@ namespace ImageBox
         {
             if (e.Delta > 0)
             {
-                imgScale = 1.2f;
+                imgScale = 1.3f;
 
             }
             else
             {
-                imgScale = 0.8f;
+                imgScale = 0.3f;
             }
             dest.X += (int)((e.X - dest.X) * (1 - imgScale));
             dest.Y += (int)((e.Y - dest.Y) * (1 - imgScale));
