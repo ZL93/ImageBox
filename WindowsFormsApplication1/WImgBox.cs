@@ -85,7 +85,7 @@ namespace ImageBox
             }
             else
             {
-                imgScale = 0.3f;
+                imgScale = 0.7f;
             }
             dest.X += (int)((e.X - dest.X) * (1 - imgScale));
             dest.Y += (int)((e.Y - dest.Y) * (1 - imgScale));
