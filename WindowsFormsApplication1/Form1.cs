@@ -17,21 +17,21 @@ namespace ImageBox
         {
             InitializeComponent();
         }
-        HImage img = new HImage("1.bmp");
+        //HImage img = new HImage("1.bmp");
         private void Form1_Load(object sender, EventArgs e)
         {
-            imgBox1.Image = img;
+            //imgBox1.Image = img;
 
-            HRegion reg = new HRegion(50d, 50d, 10);
-            imgBox1.Regions.Add(reg);
+            //HRegion reg = new HRegion(50d, 50d, 10);
+            //imgBox1.Regions.Add(reg);
 
-            HRegion reg1 = new HRegion(100d, 100d, 10);
-            imgBox1.Regions.Add(reg1);
-            imgBox1.HalconWindow.SetColor("red");
-            //imgBox1.HalconWindow.SetDraw("margin");
-            imgBox1.DispImageFit();
-            Bitmap b = new Bitmap("1.bmp");
-            wImgBox1.Image = b;
+            //HRegion reg1 = new HRegion(100d, 100d, 10);
+            //imgBox1.Regions.Add(reg1);
+            //imgBox1.HalconWindow.SetColor("red");
+            ////imgBox1.HalconWindow.SetDraw("margin");
+            //imgBox1.DispImageFit();
+            //Bitmap b = new Bitmap("1.bmp");
+            //wImgBox1.Image = b;
         }
 
        

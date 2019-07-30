@@ -47,6 +47,7 @@
             // 
             // wImgBox1
             // 
+            this.wImgBox1.BackColor = System.Drawing.Color.Black;
             this.wImgBox1.Image = null;
             this.wImgBox1.Location = new System.Drawing.Point(504, 3);
             this.wImgBox1.Name = "wImgBox1";
@@ -63,6 +64,7 @@
             this.imgBox1.Location = new System.Drawing.Point(0, 0);
             this.imgBox1.Margin = new System.Windows.Forms.Padding(2);
             this.imgBox1.Name = "imgBox1";
+            this.imgBox1.Regions = ((System.Collections.Generic.List<HalconDotNet.HRegion>)(resources.GetObject("imgBox1.Regions")));
             this.imgBox1.Size = new System.Drawing.Size(400, 400);
             this.imgBox1.TabIndex = 1;
             this.imgBox1.WindowSize = new System.Drawing.Size(400, 400);

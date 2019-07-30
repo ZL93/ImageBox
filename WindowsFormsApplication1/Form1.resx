@@ -117,4 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="imgBox1.Regions" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAJ8BaGFsY29uZG90bmV0LCBWZXJzaW9uPTEyLjAuMC4wLCBDdWx0
+        dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTQ5NzNiZWQ1OWRkYmYyYjhdXSwgbXNjb3JsaWIsIFZl
+        cnNpb249Mi4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRl
+        MDg5DAMAAABQaGFsY29uZG90bmV0LCBWZXJzaW9uPTEyLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1
+        YmxpY0tleVRva2VuPTQ5NzNiZWQ1OWRkYmYyYjgFAQAAADdTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJp
+        Yy5MaXN0YDFbW0hhbGNvbkRvdE5ldC5IUmVnaW9uAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAW
+        SGFsY29uRG90TmV0LkhSZWdpb25bXQMAAAAICAIAAAAJBAAAAAAAAAAAAAAABwQAAAAAAQAAAAAAAAAE
+        FEhhbGNvbkRvdE5ldC5IUmVnaW9uAwAAAAs=
+</value>
+  </data>
 </root>
